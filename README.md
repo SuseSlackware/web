@@ -1,1 +1,1 @@
-# web
+# suseslackware website
